@@ -1,12 +1,12 @@
 
-outout: main.o  message.o
-	g++ main.o message.o -o output
+outout: src/main.o  src/message.o
+	g++ src/main.o src/message.o -o bin/output
 
 main.o: main.cpp
-	g++ -c main.cpp
+	g++ -c src/main.cpp
 
-message.o: message.cpp message.h
-	g++ -c message.cpp
+message.o: src/message.cpp src/message.h
+	g++ -c src/message.cpp
 
 clean:
-	rm *.o output
+	rm src/*.o bin/output
