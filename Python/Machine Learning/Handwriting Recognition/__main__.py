@@ -54,6 +54,15 @@ Datasets:
     MNIST Dataset   -   For more information visit https://deepai.org/dataset/mnist
 
 """
+"""
+
+Tested platforms:
+
+	Linux:
+
+		Fedora 34	-	For more information visit https://getfedora.org/
+
+"""
 
 import tensorflow as tf
 import matplotlib.pyplot as plt
