@@ -1,5 +1,5 @@
 
-outout: src/main.o  src/message.o
+output: src/main.o  src/message.o
 	g++ src/main.o src/message.o -o bin/output
 
 main.o: main.cpp
