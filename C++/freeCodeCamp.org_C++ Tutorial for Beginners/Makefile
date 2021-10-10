@@ -32,22 +32,22 @@ datatypes: src/004_Data\ Types/DataTypes.cpp
 workingwithstrings: src/005_Working\ with\ Strings/WorkingWithStrings.cpp
 	rm -rdf -- bin/Linux/005_Working\ with\ Strings
 	mkdir -p bin/Linux/005_Working\ with\ Strings
-	g++ src/005_Working\ with\ Strings/WorkingWithStrings.cpp -o bin/Linux/005_Working\ with\ Strings/WorkingWithStrings.cpp
+	g++ src/005_Working\ with\ Strings/WorkingWithStrings.cpp -o bin/Linux/005_Working\ with\ Strings/WorkingWithStrings
 
 workingwithnumbers: src/006_Working\ with\ Numbers/WorkingWithNumbers.cpp
 	rm -rdf -- bin/Linux/006_Working\ with\ Numbers
 	mkdir -p bin/Linux/006_Working\ with\ Numbers
-	g++ src/006_Working\ with\ Numbers/WorkingWithNumbers.cpp -o bin/Linux/006_Working\ with\ Numbers/WorkingWithNumbers.cpp
+	g++ src/006_Working\ with\ Numbers/WorkingWithNumbers.cpp -o bin/Linux/006_Working\ with\ Numbers/WorkingWithNumbers
 
 gettinguserinput: src/007_Getting\ User\ Input/GettingUserInput.cpp
 	rm -rdf -- bin/Linux/007_Getting\ User\ Input
 	mkdir -p bin/Linux/007_Getting\ User\ Input
-	g++ src/007_Getting\ User\ Input/GettingUserInput.cpp -o bin/Linux/007_Getting\ User\ Input/GettingUserInput.cpp
+	g++ src/007_Getting\ User\ Input/GettingUserInput.cpp -o bin/Linux/007_Getting\ User\ Input/GettingUserInput
 
 buildingacalculator: src/008_Building\ a\ Calculator/BuildingACalculator.cpp
 	rm -rdf -- bin/Linux/008_Building\ a\ Calculator
 	mkdir -p bin/Linux/008_Building\ a\ Calculator
-	g++ src/008_Building\ a\ Calculator/BuildingACalculator.cpp -o bin/Linux/008_Building\ a\ Calculator/BuildingACalculator.cpp
+	g++ src/008_Building\ a\ Calculator/BuildingACalculator.cpp -o bin/Linux/008_Building\ a\ Calculator/BuildingACalculator
 	
 # clean
 clean:
