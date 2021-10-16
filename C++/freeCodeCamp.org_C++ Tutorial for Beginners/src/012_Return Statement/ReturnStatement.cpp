@@ -1,5 +1,7 @@
 #include <iostream>
 
+/* Simple C++ program that uses functions with return statements */
+
 using namespace std;
 
 double cube(double);

@@ -1,5 +1,7 @@
 #include <iostream>
 
+/* Simple C++ program that uses if statements with conditions */
+
 using namespace std;
 
 int getMax(int, int);

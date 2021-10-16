@@ -1,5 +1,7 @@
 #include <iostream>
 
+/* Simple C++ program that uses functions */
+
 using namespace std;
 
 /* This way he function has to be defined before the main function */

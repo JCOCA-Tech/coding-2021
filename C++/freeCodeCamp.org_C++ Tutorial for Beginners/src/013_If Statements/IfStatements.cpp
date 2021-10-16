@@ -1,5 +1,7 @@
 #include <iostream>
 
+/* Simple C++ program that uses if statements */
+
 using namespace std;
 
 int main()

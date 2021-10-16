@@ -1,5 +1,7 @@
 #include <iostream>
 
+/* Simple C++ program that uses switch statements */
+
 using namespace std;
 
 string getDayOfWeek(int);

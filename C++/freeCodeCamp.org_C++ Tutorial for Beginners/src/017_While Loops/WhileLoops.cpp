@@ -1,5 +1,6 @@
 #include <iostream>
 
+/* Simple C++ program that uses while loops */
 using namespace std;
 
 int main()

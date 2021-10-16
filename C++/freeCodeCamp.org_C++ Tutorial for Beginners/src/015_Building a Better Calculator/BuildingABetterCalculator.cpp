@@ -1,5 +1,7 @@
 #include <iostream>
 
+/* Simple multifunctional calculator */
+
 using namespace std;
 
 int main()
