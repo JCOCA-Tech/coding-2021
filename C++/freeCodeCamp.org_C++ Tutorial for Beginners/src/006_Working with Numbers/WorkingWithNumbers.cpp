@@ -19,18 +19,18 @@ int main()
 
     /* Increment integer variables*/
     cout << "Increment the integer " << wholeNumber << ":\t\t";
-    wholeNumber++; // Increment
+    wholeNumber++; // Increment by 1
     cout << wholeNumber << endl;
     cout << "Negatively increment the integer " << wholeNumber << ":\t";
-    wholeNumber--; // Negative increment
+    wholeNumber--; // Decrement by 1
     cout << wholeNumber << endl << endl;
 
     /* Increment decimal variables*/
     cout << "Increment the decimal " << decimalNumber << ":\t\t";
-    decimalNumber++; // Increment
+    decimalNumber++; // Increment by 1
     cout << decimalNumber << endl;
     cout << "Negatively increment the decimal " << decimalNumber << ":\t";
-    decimalNumber--; // Negative increment
+    decimalNumber--; // Decrement by 1
     cout << decimalNumber << endl << endl;
 
     /* Variable operators on integers */
@@ -55,6 +55,7 @@ int main()
     decimalNumber/=4; // Division
     cout << "Decimal Variable division: \t\t" << decimalNumber << " / 4 = " << decimalNumber << endl << endl;
 
+    /* Common math functions */
     cout << "pow(2,2):\t" << pow(2,2) << endl; // Raise x to the power of y
     cout << "sqrt(36):\t" << sqrt(36) << endl; // Square root of x
     cout << "round(4.6):\t" << round(4.6) << endl; // Round x
