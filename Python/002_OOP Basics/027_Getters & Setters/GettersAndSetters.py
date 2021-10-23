@@ -1,39 +1,41 @@
 class Movie:
 
-    _rating = "NR"
+    _rating = ""
     title = ""
     director = ""
 
-    def __init__(self, title, director, rating):
-        print("[DEBUG]: creating object [\"", title, "\", \"", director, "\", \"", rating, "\"]...")
-        self.title = title
-        self.director = director
-        self.set_rating(rating)
-        print("[DEBUG]: Object created [\"", self.title, "\", \"", self.director, "\", \"", self.get_rating(), "]")
-        print("[DEBUG]: Done")
-
     @property
-    def set_rating(self, rating):
-        rating = str(rating)
+    def rating(self): return self._rating
+
+    @rating.setter
+    def rating(self, rating="NR"):
+        rating = rating
         if(rating == "G" or (rating == "PG" or (rating == "PG-13" or (rating == "R" or rating == "NR")))):
             self._rating = rating
-            print("[DEBUG]: Rating set to default value \"", self.get_rating(), "\"")
+            print("[DEBUG]: Rating set to default value \"", self.rating, "\"")
         else:
             self._rating = "NR"
             print("[ERROR]: Value is not a valid rating. Rating was instead set to default value \"NR\"")
     
-    @property
-    def get_rating(self):
-        return str(self._rating)
+    @rating.getter
+    def rating(self): return self._rating
+
+    def __init__(self, title="No title", director="No director", rating="NR"):
+        print("[DEBUG]: creating object [\"", title, "\", \"", director, "\", \"", rating, "\"]...")
+        self.title = title
+        self.director = director
+        self.rating = rating
+        print("[DEBUG]: Object created [\"", self.title, "\", \"", self.director, "\", \"", self.rating, "]")
+        print("[DEBUG]: Done")
 
 avengers = Movie("The Avengers", "Joss Whedon", "PG-13")
-#oblivion = Movie("Oblivion", "Joseph Kosinski", "PG-13")
-#interstellar = Movie("Interstellar", "Christopher Nolan", "PG-13")
-#transcendence = Movie("Transcendence", "Wally Pfister", "PG-13")
+oblivion = Movie("Oblivion", "Joseph Kosinski", "PG-1")
+interstellar = Movie("Interstellar", "Christopher Nolan", "PG")
+transcendence = Movie("Transcendence", "Wally Pfister", "PG-11")
 
-#Movies = [avengers, oblivion, interstellar, transcendence]
+Movies = [avengers, oblivion, interstellar, transcendence]
 
-#for movie in Movies:
-#    print("Title:\t\t", movie.title)
-#    print("Director:\t", movie.director)
-#    print("Rating:\t\t", movie.get_rating())
+for movie in Movies:
+    print("\nTitle:\t\t", movie.title)
+    print("Director:\t", movie.director)
+    print("Rating:\t\t", movie.rating)
