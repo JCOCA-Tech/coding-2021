@@ -1,0 +1,2 @@
+/home/sh3r10ck/Documents/coding-2021/CMake/002_Running CMake/how-to-make-cmake-good-0b/build/CMakeFiles/rebuild_cache.dir
+/home/sh3r10ck/Documents/coding-2021/CMake/002_Running CMake/how-to-make-cmake-good-0b/build/CMakeFiles/edit_cache.dir
