@@ -1,0 +1,2 @@
+/home/sh3r10ck/Documents/coding-2021/CMake/005_CMake in Visual Studio Code/build/CMakeFiles/rebuild_cache.dir
+/home/sh3r10ck/Documents/coding-2021/CMake/005_CMake in Visual Studio Code/build/CMakeFiles/edit_cache.dir
