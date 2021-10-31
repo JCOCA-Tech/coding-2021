@@ -1,0 +1,3 @@
+/home/sh3r10ck/Documents/coding-2021/C/freeCodeCamp.org_Pointers in C/bin/002_Working with pointers/CMakeFiles/rebuild_cache.dir
+/home/sh3r10ck/Documents/coding-2021/C/freeCodeCamp.org_Pointers in C/bin/002_Working with pointers/CMakeFiles/edit_cache.dir
+/home/sh3r10ck/Documents/coding-2021/C/freeCodeCamp.org_Pointers in C/bin/002_Working with pointers/CMakeFiles/WorkingWithPointers.dir

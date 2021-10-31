@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/WorkingWithPointers.dir/WorkingWithPointers.c.o -o WorkingWithPointers 
