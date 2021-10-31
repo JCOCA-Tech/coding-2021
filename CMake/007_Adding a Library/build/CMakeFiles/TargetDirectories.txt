@@ -1,0 +1,4 @@
+/home/sh3r10ck/Documents/coding-2021/CMake/007_Adding a Library/build/CMakeFiles/rebuild_cache.dir
+/home/sh3r10ck/Documents/coding-2021/CMake/007_Adding a Library/build/CMakeFiles/edit_cache.dir
+/home/sh3r10ck/Documents/coding-2021/CMake/007_Adding a Library/build/CMakeFiles/cmake-good.dir
+/home/sh3r10ck/Documents/coding-2021/CMake/007_Adding a Library/build/CMakeFiles/say_hello.dir

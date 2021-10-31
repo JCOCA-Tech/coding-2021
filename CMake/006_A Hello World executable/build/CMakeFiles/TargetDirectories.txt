@@ -1,0 +1,3 @@
+/home/sh3r10ck/Documents/coding-2021/CMake/006_A Hello World executable/build/CMakeFiles/rebuild_cache.dir
+/home/sh3r10ck/Documents/coding-2021/CMake/006_A Hello World executable/build/CMakeFiles/edit_cache.dir
+/home/sh3r10ck/Documents/coding-2021/CMake/006_A Hello World executable/build/CMakeFiles/cmake-good.dir
