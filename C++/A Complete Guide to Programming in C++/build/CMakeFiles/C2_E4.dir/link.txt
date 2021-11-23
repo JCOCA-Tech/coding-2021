@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/C2_E4.dir/C2/Exercise_4.cpp.o -o C2_E4 

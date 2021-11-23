@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/C2_S2.dir/C2/Sample_2.cpp.o -o C2_S2 

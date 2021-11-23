@@ -1,0 +1,221 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "A_Complete_Guide_to_Programming_in_C++",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "C1_E1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C1_E1-Debug-96a2b694833eb0fbc0b4.json",
+					"name" : "C1_E1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C1_E2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C1_E2-Debug-6a4801826d691846fd4f.json",
+					"name" : "C1_E2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C1_E3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C1_E3-Debug-4c03d3d68ee245a92e10.json",
+					"name" : "C1_E3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C2_E1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C2_E1-Debug-30c21a5ae4ded0a691b6.json",
+					"name" : "C2_E1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C2_E2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C2_E2-Debug-f7e6ec35a8caba9e4046.json",
+					"name" : "C2_E2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C2_E3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C2_E3-Debug-f16034e23145f0bad560.json",
+					"name" : "C2_E3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C2_E4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C2_E4-Debug-d65c2a07afaf21b7f5cd.json",
+					"name" : "C2_E4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C2_S1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C2_S1-Debug-2f1d5738c8e83be9b136.json",
+					"name" : "C2_S1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C2_S2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C2_S2-Debug-669877ce7f9604312e62.json",
+					"name" : "C2_S2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C2_S3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C2_S3-Debug-03b1da7b2e06a43b2c94.json",
+					"name" : "C2_S3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C2_S4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C2_S4-Debug-dfe6691917442ed05d3e.json",
+					"name" : "C2_S4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C2_S5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C2_S5-Debug-1997720dff6994ec2baa.json",
+					"name" : "C2_S5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C3_E1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C3_E1-Debug-b451ef65b7e41df66b43.json",
+					"name" : "C3_E1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C3_E2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C3_E2-Debug-d63dbd21d201b8256195.json",
+					"name" : "C3_E2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C3_E3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C3_E3-Debug-d623425fc1577f5ac3b7.json",
+					"name" : "C3_E3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C3_S1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C3_S1-Debug-4ddae14050a81d3abcd8.json",
+					"name" : "C3_S1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C3_S2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C3_S2-Debug-90ed0e1f9bd180e67241.json",
+					"name" : "C3_S2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C3_S3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C3_S3-Debug-59316c0cb720a0678785.json",
+					"name" : "C3_S3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C3_SeedList::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C3_SeedList-Debug-ec191b112d7c4a7d98ad.json",
+					"name" : "C3_SeedList",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/sh3r10ck/Documents/coding-2021/C++/A Complete Guide to Programming in C++/build",
+		"source" : "/home/sh3r10ck/Documents/coding-2021/C++/A Complete Guide to Programming in C++"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}

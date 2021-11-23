@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/C3_S1.dir/C3/Sample_1.cpp.o -o C3_S1 

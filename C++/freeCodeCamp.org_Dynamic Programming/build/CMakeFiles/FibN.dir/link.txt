@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/FibN.dir/001_fib(n)/FibN.cpp.o" -o FibN 
